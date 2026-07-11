@@ -1,31 +1,41 @@
-# Hey, I'm Franco
+# Franco Ferreira
 
-I build software across the stack: embedded devices, AI tools, SaaS platforms, and trading systems.
+Forward Deployed / Product Engineer based in Buenos Aires.
 
-## Featured Projects
+I turn ambiguous customer and operator workflows into production software: integrations, dashboards, internal tools, automation, and AI-assisted systems. I work across discovery, product decisions, implementation, rollout, and the operational details that appear after launch.
 
-- [RangeGuard](https://github.com/frxnnk/rangeguard) — Automated DeFi hedging bot for Uniswap V3 concentrated liquidity
-- [ShotPack](https://github.com/frxnnk/shotpack) — AI-powered product photography platform
-- [Lemon Display](https://github.com/frxnnk/lemon-display) — ESP32-S3 crypto display with real-time BTC prices and audio alerts
-- [Avatar Dance Lobby](https://github.com/frxnnk/avatar-dance-lobby) — 3D avatar experience built with Three.js and SoundCloud integration
-- [llmlocalpdf](https://github.com/frxnnk/llmlocalpdf) — 100% local LLM pipeline for processing Argentine judicial documents
-- [Amazon Affiliates](https://github.com/frxnnk/amazon-affiliates) — Fast affiliate product site built with Astro
+## Selected work
 
-## Focus Areas
+### Rely
 
-- AI products and internal tools
-- Full-stack SaaS for real businesses
-- DeFi automation and trading infrastructure
-- Embedded / IoT product experiments
+Company-operations software for LATAM founders forming and operating US companies. I own product and engineering across onboarding, payments, documents, dashboards, admin queues, support workflows, and external provider integrations.
 
-## Stack
+[Product](https://www.rely.business/) · [Portfolio case](https://www.ffran.co/)
 
-TypeScript Python Kotlin C++ Next.js React Spring Boot FastAPI Postgres ESP32
+### Acelera
 
-## Notes
+AI implementation work for teams with unclear processes and broad automation expectations. I help scope the real workflow, build the smallest useful system, and keep implementation close to the operators who will run it.
 
-Some of my strongest commercial work is private. This profile highlights the projects I can share publicly.
+[Acelera](https://www.acelera.agency/)
 
----
+## Public engineering proof
 
-*Code your world and have fun.*
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [LLM Local PDF](https://github.com/frxnnk/llmlocalpdf) | An offline document-processing workflow that turns Argentine legal PDFs into reviewable structured data without sending sensitive files to a SaaS | Python, Qwen, llama.cpp, PDF |
+| [Lemon Display](https://github.com/frxnnk/lemon-display) | A physical product surface for live market data, including WiFi provisioning, touch, audio, state, and constrained-device rendering | C++, ESP32-S3, APIs |
+| [RangeGuard](https://github.com/frxnnk/rangeguard) | Stateful automation for concentrated-liquidity hedging with explicit risk boundaries, monitoring, testnet flows, and CI | TypeScript, Next.js, SQLite, DeFi |
+
+## Previous environments
+
+- **Aivo:** operator-facing tooling for an enterprise AI chatbot platform.
+- **HSBC:** regulated biometric onboarding and identity-verification workflows.
+- **Ford Argentina:** LATAM parts and logistics systems, including an AngularJS migration while the operational product stayed live.
+
+## Working stack
+
+TypeScript · React · Next.js · Python · FastAPI · Java/Spring Boot · PostgreSQL · REST APIs · Docker · AI workflows · systems integration · ESP32/C++
+
+## Contact
+
+[Portfolio](https://www.ffran.co/) · [LinkedIn](https://www.linkedin.com/in/franco-ferreira/) · [Email](mailto:frxnco@protonmail.com)
