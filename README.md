@@ -1,20 +1,20 @@
 # Franco Ferreira
 
-Forward Deployed / Product Engineer based in Buenos Aires.
+Product engineer based in Buenos Aires.
 
-I turn ambiguous customer and operator workflows into production software: integrations, dashboards, internal tools, automation, and AI-assisted systems. I work across discovery, product decisions, implementation, rollout, and the operational details that appear after launch.
+I build software for work that spans several people and systems. At Rely, I lead product and engineering for the customer dashboard and internal tools behind more than 50 US company formations. Before that, I worked on enterprise chatbots, biometric banking onboarding, and logistics software.
 
 ## Selected work
 
 ### Rely
 
-Company-operations software for LATAM founders forming and operating US companies. I own product and engineering across onboarding, payments, documents, dashboards, admin queues, support workflows, and external provider integrations.
+Company-formation software for LATAM founders. I lead product and engineering across onboarding, payments, documents, dashboards, admin queues, support, and more than six external provider integrations.
 
-[Product](https://www.rely.business/) · [Portfolio case](https://www.ffran.co/)
+[Product](https://www.rely.business/) · [Portfolio case](https://francoferreira.com/work/rely)
 
 ### Acelera
 
-AI implementation work for teams with unclear processes and broad automation expectations. I help scope the real workflow, build the smallest useful system, and keep implementation close to the operators who will run it.
+AI implementation work for teams whose processes still depend on spreadsheets and manual handoffs. I interview the people doing the work, choose one bottleneck to test, and build the first internal tool with them.
 
 [Acelera](https://www.acelera.agency/)
 
@@ -38,4 +38,4 @@ TypeScript · React · Next.js · Python · FastAPI · Java/Spring Boot · Postg
 
 ## Contact
 
-[Portfolio](https://www.ffran.co/) · [LinkedIn](https://www.linkedin.com/in/franco-ferreira/) · [Email](mailto:frxnco@protonmail.com)
+[Portfolio](https://francoferreira.com/) · [LinkedIn](https://www.linkedin.com/in/franco-ferreira/) · [Email](mailto:frxnco@protonmail.com)
